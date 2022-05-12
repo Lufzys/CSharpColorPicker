@@ -30,6 +30,7 @@
         {
             this.plColorHolder = new System.Windows.Forms.Panel();
             this.pbColor = new System.Windows.Forms.PictureBox();
+            this.colorPickerHorizontal1 = new CSharpColorPicker.ColorPickerHorizontal();
             this.colorPickerVertical1 = new CSharpColorPicker.ColorPickerVertical();
             this.colorPicker1 = new CSharpColorPicker.ColorPicker();
             this.plColorHolder.SuspendLayout();
@@ -57,6 +58,15 @@
             this.pbColor.TabIndex = 2;
             this.pbColor.TabStop = false;
             // 
+            // colorPickerHorizontal1
+            // 
+            this.colorPickerHorizontal1.Location = new System.Drawing.Point(12, 168);
+            this.colorPickerHorizontal1.MainColor = System.Drawing.Color.Red;
+            this.colorPickerHorizontal1.Name = "colorPickerHorizontal1";
+            this.colorPickerHorizontal1.Size = new System.Drawing.Size(150, 20);
+            this.colorPickerHorizontal1.TabIndex = 5;
+            this.colorPickerHorizontal1.ColorChanged += new CSharpColorPicker.ColorPickerHorizontal.colorChanged(this.colorPickerHorizontal1_ColorChanged);
+            // 
             // colorPickerVertical1
             // 
             this.colorPickerVertical1.Location = new System.Drawing.Point(168, 12);
@@ -80,7 +90,8 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.ClientSize = new System.Drawing.Size(241, 177);
+            this.ClientSize = new System.Drawing.Size(241, 202);
+            this.Controls.Add(this.colorPickerHorizontal1);
             this.Controls.Add(this.plColorHolder);
             this.Controls.Add(this.colorPickerVertical1);
             this.Controls.Add(this.colorPicker1);
@@ -100,6 +111,7 @@
         private ColorPickerVertical colorPickerVertical1;
         private System.Windows.Forms.Panel plColorHolder;
         private System.Windows.Forms.PictureBox pbColor;
+        private ColorPickerHorizontal colorPickerHorizontal1;
     }
 }
 

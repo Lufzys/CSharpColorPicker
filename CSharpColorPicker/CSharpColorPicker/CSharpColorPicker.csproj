@@ -53,6 +53,12 @@
     <Compile Include="ColorPicker.Designer.cs">
       <DependentUpon>ColorPicker.cs</DependentUpon>
     </Compile>
+    <Compile Include="ColorPickerHorizontal.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ColorPickerHorizontal.Designer.cs">
+      <DependentUpon>ColorPickerHorizontal.cs</DependentUpon>
+    </Compile>
     <Compile Include="ColorPickerVertical.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -69,6 +75,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="ColorPicker.resx">
       <DependentUpon>ColorPicker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ColorPickerHorizontal.resx">
+      <DependentUpon>ColorPickerHorizontal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ColorPickerVertical.resx">
       <DependentUpon>ColorPickerVertical.cs</DependentUpon>

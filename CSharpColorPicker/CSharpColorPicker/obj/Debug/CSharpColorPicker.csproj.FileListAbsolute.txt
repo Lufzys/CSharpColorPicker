@@ -1,0 +1,14 @@
+C:\Users\furka\Desktop\CSharpColorPicker-main\CSharpColorPicker\CSharpColorPicker\bin\Debug\CSharpColorPicker.exe.config
+C:\Users\furka\Desktop\CSharpColorPicker-main\CSharpColorPicker\CSharpColorPicker\bin\Debug\CSharpColorPicker.exe
+C:\Users\furka\Desktop\CSharpColorPicker-main\CSharpColorPicker\CSharpColorPicker\bin\Debug\CSharpColorPicker.pdb
+C:\Users\furka\Desktop\CSharpColorPicker-main\CSharpColorPicker\CSharpColorPicker\obj\Debug\CSharpColorPicker.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\CSharpColorPicker-main\CSharpColorPicker\CSharpColorPicker\obj\Debug\CSharpColorPicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\Desktop\CSharpColorPicker-main\CSharpColorPicker\CSharpColorPicker\obj\Debug\CSharpColorPicker.ColorPicker.resources
+C:\Users\furka\Desktop\CSharpColorPicker-main\CSharpColorPicker\CSharpColorPicker\obj\Debug\CSharpColorPicker.ColorPickerVertical.resources
+C:\Users\furka\Desktop\CSharpColorPicker-main\CSharpColorPicker\CSharpColorPicker\obj\Debug\CSharpColorPicker.MainForm.resources
+C:\Users\furka\Desktop\CSharpColorPicker-main\CSharpColorPicker\CSharpColorPicker\obj\Debug\CSharpColorPicker.Properties.Resources.resources
+C:\Users\furka\Desktop\CSharpColorPicker-main\CSharpColorPicker\CSharpColorPicker\obj\Debug\CSharpColorPicker.csproj.GenerateResource.cache
+C:\Users\furka\Desktop\CSharpColorPicker-main\CSharpColorPicker\CSharpColorPicker\obj\Debug\CSharpColorPicker.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\CSharpColorPicker-main\CSharpColorPicker\CSharpColorPicker\obj\Debug\CSharpColorPicker.exe
+C:\Users\furka\Desktop\CSharpColorPicker-main\CSharpColorPicker\CSharpColorPicker\obj\Debug\CSharpColorPicker.pdb
+C:\Users\furka\Desktop\CSharpColorPicker-main\CSharpColorPicker\CSharpColorPicker\obj\Debug\CSharpColorPicker.ColorPickerHorizontal.resources

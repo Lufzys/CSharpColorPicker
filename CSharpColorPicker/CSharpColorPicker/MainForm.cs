@@ -31,5 +31,10 @@ namespace CSharpColorPicker
         {
             colorPicker1.MainColor = e.Color;
         }
+
+        private void colorPickerHorizontal1_ColorChanged(object sender, ColorPickerHorizontal.ColorChangedEventArgs e)
+        {
+            colorPicker1.MainColor = e.Color;
+        }
     }
 }
